@@ -1,0 +1,4 @@
+# input.text contains latest text entered by user
+"context": {
+    "username": "<? input.text ?>"
+  },
